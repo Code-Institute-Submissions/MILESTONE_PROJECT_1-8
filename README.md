@@ -1,45 +1,61 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<p align="center"><img src="/assets/images/LOGOLKDJ.png" width="400"></p>
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# *Limerick DJ*
+View the live project [HERE.](https:///index.html)
 
-## Gitpod Reminders
+***
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## **Introduction**
 
-`python3 -m http.server`
+Limerick DJ is a website that offers DJ services to couples getting married. It offers couples 3 packages for their weddings. There is simple navigation for Gallery and Contact pages so couples can make inquiries.
 
-A blue button should appear to click: *Make Public*,
+***
 
-Another blue button should appear to click: *Open Browser*.
+## **Table Of Contents**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  * [**Introduction**](#--introduction--)
+  * [**User Experience (UX)**](#--user-experience--ux---)
+    + [User Stories](#user-stories)
+    + [Target Audience](#target-audience)
+    + [User Goals](#user-goals)
+    + [Design](#design)
+    + [Wireframes](#wireframes)
+  * [**Features**](#--features--)
+  * [**Technologies Used**](#--technologies-used--)
+    + [Languages Used](#languages-used)
+    + [Frameworks, Libraries & Programs Used](#frameworks--libraries---programs-used)
+  * [**Testing**](#--testing--)
+    + [Testing User Stories from UX Section](#testing-user-stories-from-ux-section)
+    + [Further Testing](#further-testing)
+    + [Known Bugs](#known-bugs)
+  * [**Deployment**](#--deployment--)
+  * [**Credits**](#--credits--)
+    + [Code](#code)
+    + [Content](#content)
+    + [Media](#media)
+    + [Acknowledgements](#acknowledgements)
 
-A blue button should appear to click: *Make Public*,
+***
 
-Another blue button should appear to click: *Open Browser*.
+## **User Experience (UX)**
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### User Stories
+##### *First Time Users*
+* Being a first time user, I want to source a DJ for my wedding. 
 
-## Updates Since The Instructional Video
+* I want to easily navigate the website. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* I want to see examples or past weddings. 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+* I want to get a quote for my wedding easily.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Target Audience
+* Couples getting married. 
+* Couples thinking about their wedding entertainment.
+* Couples who want a DJ only for their wedding.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+### User Goals
+* Inform couples about packages available to them.
+* Encourage couples to make contact for a sale.
+* Make the site appealing to wedding couples.
