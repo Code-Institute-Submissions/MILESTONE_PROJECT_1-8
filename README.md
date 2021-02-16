@@ -48,6 +48,8 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 * I want to see examples or past weddings. 
 
+* I want to see reviews from other couples.
+
 * I want to get a quote for my wedding easily.
 
 ### Target Audience

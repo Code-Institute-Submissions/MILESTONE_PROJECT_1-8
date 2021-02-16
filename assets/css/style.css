@@ -1,3 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
@@ -41,12 +48,54 @@
     margin-top: -6px;
 }
 
-/* Styling the H1 text and paragraph to be in the centre */ 
+/* Styling the h1 text and paragraph */ 
+h1 {
+    font-family: "Sofia", sans-serif;
+}
 h1, p {
     text-align: center;
 }
+p {
+   margin: 5px 50px 50px 50px;
+}
 
-/* Add media queries for responsiveness - when the screen is 500px wide or less, I want to stack the links on top of each other */
+#opener {
+    background-color: #f1ece9;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+/* Adding and styling the hero image */
+#hero-image {
+  height: 550px;
+  width: 100%;
+  background: url("/assets/images/Hero_image2.jpg") no-repeat center center;
+  background-size: cover;
+    -ms-background-position-x: center;
+  -ms-background-position-y: bottom;
+  background-position: center bottom;
+}
+
+/* Styling the cover-text to appear over the hero image */
+#cover-text, #cover-text h2 {
+  color: #ffffff;
+}
+
+#cover-text {
+  font-size: 100%;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  width: 500px;
+  height: 225px;
+  padding-top: 40px;
+  padding-left: 10px;
+  background-color: rgba(153, 102, 204, .7);
+  bottom: 30px;
+  left: 10px;
+  position: absolute;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, I want to stack the links on top of each other and make the logo smaller */
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
@@ -58,5 +107,17 @@ h1, p {
   }
   .logo-image {
       max-width: 100%;
+  }
+
+  /* Add media queries for responsiveness - when the screen is 500px wide or less, the hero image will be smaller */
+  #hero-image {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    }
+
+  /* Cover text will disappear on mobile devices */
+#cover-text {
+      display: none;
   }
 }
