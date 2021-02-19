@@ -57,7 +57,11 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 * Couples thinking about their wedding entertainment.
 * Couples who want a DJ only for their wedding.
 
-### User Goals
+### Business Owner Goals
 * Inform couples about packages available to them.
 * Encourage couples to make contact for a sale.
 * Make the site appealing to wedding couples.
+* Include examples of weddings in a Gallery
+* Show coulples reviews from past weddings
+* Highlight special discounts for midweek weddings
+* include links to social media pages
