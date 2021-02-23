@@ -1,4 +1,4 @@
-body{
+body {
     width: 100%;
     height: 100%;
     margin: 0px;
@@ -6,12 +6,13 @@ body{
     overflow-x: hidden;
     background-color: #f1ece9;
 }
-
-
-/* Style the header with a grey background and some padding */
+.fa-star {
+    color: #FFD700;
+}
+/* Style the header with a beige background and some padding */
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #f1ece9;
   padding: 20px 10px;
 }
 
@@ -29,7 +30,7 @@ body{
 
 /* Change the background color on mouse-over */
 .header a:hover {
-  background-color: #fafafa;
+  background-color: #9e7bb5;
   color: black;
 }
 
@@ -51,7 +52,7 @@ body{
     margin-top: -6px;
 }
 
-/* Styling the h1 text and paragraph */ 
+/* Styling the text and paragraphs */ 
 h1 {
     font-family: "Sofia", sans-serif;
 }
@@ -69,12 +70,14 @@ h2, p {
 .opener {
     background-color: #f1ece9;
     padding-top: 25px;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
 }
 a {
      color: #9966cc;
  }
-
+h3 {
+    text-align: center;
+}
 
 /* Adding and styling the hero image */
 #hero-image {
@@ -89,7 +92,7 @@ a {
 
 /* Styling the cover-text to appear over the hero image */
 #cover-text, #cover-text h2 {
-  color: #ffffff;
+  color: #fff;
 }
 
 #cover-text {
@@ -102,7 +105,7 @@ a {
   padding-top: 40px;
   padding-left: 10px;
   background-color: rgba(153, 102, 204, .7);
-  bottom: 60px;
+  bottom: 10px;
   left: 10px;
   position: absolute;
 }
@@ -120,7 +123,9 @@ a {
   .logo-image {
       max-width: 100%;
   }
-
+img.pack-img {
+    max-height: 200px;
+}
   /* Add media queries for responsiveness - when the screen is 500px wide or less, the hero image will be smaller */
   #hero-image {
     width: 100%;
@@ -130,17 +135,18 @@ a {
 
   /* Cover text will disappear on mobile devices */
 #cover-text {
-      display: none;
+  display: none;
   }
 }
 
-/* Add media queries for responsiveness - when the screen is 800px wide or less, the cover text will disappear */
+/* Add media queries for responsiveness - when the screen is 800px wide or less, the cover text will disappear and images will lose border*/
 @media screen and (max-width: 800px) {
     #cover-text {
         display: none;
     }
     img.pack-img {
        border-radius: 0;
+       height: 300px;
     }
 }
 /*FOOTER*/
