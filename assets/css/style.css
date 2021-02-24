@@ -73,6 +73,9 @@ h2, p {
 a {
      color: #9966cc;
  }
+ a:hover {
+  color: #9e7bb5;
+}
 
 h3 {
     text-align: center;
