@@ -6,37 +6,35 @@ View the live project [HERE.](https:///index.html)
 
 ***
 
-## **Introduction**
-
-Limerick DJ is a website that offers DJ services to couples getting married. It offers couples 3 packages for their weddings. There is simple navigation for Gallery & Reviews and Contact pages so couples can make inquiries.
-
-***
-
 ## **Table Of Contents**
 
-  * [**Introduction**](#--introduction--)
-  * [**User Experience (UX)**](#--user-experience--ux---)
+  * [**Introduction**](#introduction)
+  * [**User Experience (UX)**](#user-stories)
     + [User Stories](#user-stories)
     + [Target Audience](#target-audience)
     + [Business Owner Goals](#business-owner-goals)
     + [Design](#design)
     + [Wireframes](#wireframes)
-  * [**Features**](#--features--)
+  * [**Features**](#languages-used)
     + [Languages Used](#languages-used)
     + [Frameworks, Libraries & Programs Used](#frameworks--libraries---programs-used)
-  * [**Testing**](#--testing--)
+  * [**Testing**](#testing-user-stories-from-ux-section)
     + [Testing User Stories from UX Section](#testing-user-stories-from-ux-section)
     + [Further Testing](#further-testing)
     + [Known Bugs](#known-bugs)
-  * [**Deployment**](#--deployment--)
-  * [**Credits**](#--credits--)
+  * [**Deployment**](#deployment)
+  * [**Credits**](#code)
     + [Code](#code)
     + [Content](#content)
     + [Media](#media)
     + [Acknowledgements](#acknowledgements)
 
 ***
+## **Introduction**
 
+Limerick DJ is a website that offers DJ services to couples getting married. It offers couples 3 packages for their weddings. There is simple navigation for Gallery & Reviews and Contact pages so couples can make inquiries.
+
+***
 ## **User Experience (UX)**
 
 ### User Stories
@@ -227,17 +225,19 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Code
 
-* [Bootstrap 4.2.1](https://getbootstrap.com/) The Bootstrap libraries were used throughout the project mainly to make the site responsive using the Bootstrap Grid System.
-
-* Can Sucullu (Mentor): My mentor Can Sucullu helped with advising on what was needed for this website
-
-* Cormac (Tutor Support): Cormac helped with explaining and structuring bootrap columns when I had an overflow issue, the use of the chrome extension Unicorn Revealer was great. 
+* [Bootstrap 4.2.1](https://getbootstrap.com/) The Bootstrap libraries were used throughout the project mainly to make the site responsive using the Bootstrap Grid System. 
 
 * [Stack Overflow:](https://stackoverflow.com/) Stack was used as coding support throughout the entire project.
 
 * [W3schools.com:](https://www.w3schools.com/) W3 was a great resource for random rules and code while working on this project.
 
-* [YouTube.com:](https://youtube.com/) Youtube was another great resource for code tips and especially with css design. Also used for animating the footer icons. 
+* [YouTube.com:](https://youtube.com/) Youtube was another great resource for code tips and especially with css design.
+
+* [Quackit.com:](https://www.quackit.com/css/properties/webkit/css_-webkit-transform.cfm) Used to animate the social media icons to rotate them when hovered.
+
+* Can Sucullu (Mentor): My mentor Can Sucullu helped with advising on what was needed for this website
+
+* Cormac (Tutor Support): Cormac helped with explaining and structuring bootrap columns when I had an overflow issue, the use of the chrome extension Unicorn Revealer was great.
 
 ### Content
 
@@ -252,6 +252,6 @@ The project was deployed to GitHub Pages using the following steps...
 
 * My mentor, Can Sucullu for his continuous feedback, support and encouragement.
 
-* Tutor support at Code Institute for all their efforts, helpfulness, and friendliness especially cormac_ci.
+* Tutor support at Code Institute for all their help and friendliness, especially cormac_ci.
 
 * Slack for all the helpful hints and tips
