@@ -96,6 +96,8 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 * The Gallery & Reviews page has all images and reviews organized neatly in three columns, and 3 rows.
   When viewed on moblie devices this becomes 1 column with all images and reviews in rows underneath. 
 
+* There is a promotional video located near the top of the page embeded from youtube.
+
 * Images can be clicked to open in a larger size on a different browser tab.
 
 * Again I have placed the call to action button under the hero image for continuity and ease. 
@@ -257,6 +259,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 * The Hero image, and 3 images on the homepage for the packages were found using [Pixabay.](https://pixabay.com/)
 * All other images are owned by myself and taken from actual weddings. 
+* The promotional video was taken from my youtube channel using my new logo but this video I made myself.
 
 ### Acknowledgements 
 
