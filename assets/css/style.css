@@ -134,6 +134,10 @@ img.pack-img {
     height: 300px;
     overflow: hidden;
     }
+    iframe  {
+        width: 100%; 
+        height: 200px;
+    }
 
   /* Cover text will disappear on mobile devices */
 #cover-text {
