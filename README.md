@@ -15,7 +15,7 @@ View the live project [HERE.](https:///index.html)
     + [Business Owner Goals](#business-owner-goals)
     + [Design](#design)
     + [Wireframes](#wireframes)
-  * [**Features**](#languages-used)
+  * [**Features**](#features)
     + [Languages Used](#languages-used)
     + [Frameworks, Libraries & Programs Used](#frameworks--libraries---programs-used)
   * [**Testing**](#testing-user-stories-from-ux-section)
@@ -160,7 +160,17 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
    * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-   * All testing validation can be seen [HERE.]() 
+   * Css Validation can be seen here: <br>
+    <img src="/assets/readmeimages/w3ccssvalidation.PNG" width="800">
+
+    * Html Validation can be seen here for index page: <br>
+    <img src="/assets/readmeimages/w3chtmlindex.PNG" width="400">
+
+    * Html Validation can be seen here for gallery page: <br>
+    <img src="/assets/readmeimages/w3chtmlgallery.PNG" width="400">
+
+    * Html Validation can be seen here for contact page: <br>
+    <img src="/assets/readmeimages/w3chtmlcontact.PNG" width="400">
 
 ### Testing User Stories from UX Section
 **First Time Visitor Goals**
