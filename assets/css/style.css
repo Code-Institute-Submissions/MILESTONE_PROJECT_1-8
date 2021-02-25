@@ -102,16 +102,15 @@ h3 {
   font-family: 'Poppins', sans-serif;
   font-size: 100%;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   width: 600px;
-  height: 200px;
+  height: 150px;
   padding-top: 10px;
   padding-left: 10px;
-  background-color: rgba(153, 102, 204, .7);
+  background-color: rgba(153, 102, 204, .8);
   bottom: 150px;
   left: 10px;
   position: absolute;
-  right: 120px;
 }
 
 .fa-star {
