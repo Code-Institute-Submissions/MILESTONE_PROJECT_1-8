@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/images/LOGOLKDJ.png" width="400"></p>
+<p align="center"><img src="/assets/images/LOGOLKDJ.png" width="600"></p>
 
 
 # *Limerick DJ*
@@ -39,9 +39,9 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 ### User Stories
 ##### *First Time Users*
-* Being a first time user, I want to source a DJ for my wedding.
+* I want to source a DJ for my wedding.
 * I want to easily navigate the website. 
-* I want to see examples or past weddings. 
+* I want to see examples of past weddings. 
 * I want to see reviews from other couples.
 * I want to get a quote for my wedding easily.
 
@@ -73,9 +73,12 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 ##### *Imagery*
 * Each page contains a large background image of a couple kissing on a dancefloor. Hopefully exciting couples of what their wedding could look like. 
-* 
+* There are also 3 images on the homepage making the packages available look more appealing
+* There is promotional video on the Gallery & Reviews page
+* The Gallery contains 9 images from past weddings
+
 ##### *Homepage* 
-* All pages were designed for ease of use and avoid confusion. Landing pages on mobile have moved the navigation menu under the logo image.
+* All pages were designed for ease of use with a simple column and row design. Landing pages on mobile have moved the navigation menu under the logo image.
 
 <p align="center"><img src="/assets/readmeimages/Menu-moved.PNG" width="400"></p>
 
@@ -209,12 +212,12 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 **Frequent Visitors**
 
-* As weddings are one of events I don't foresee visitors returning.
+* As weddings are one off events I don't foresee visitors returning.
 
 ### Further Testing
 
 * The website was tested on Google Chrome with dev tools and also Firefox browsers.
-* I also used the Unicorn Revealer extension to check errors with colums.
+* I also used the Unicorn Revealer extension to check errors with columns.
 * The website was viewed on a variety of devices such as Desktop, Laptop, iPad & Samsung mobile devices.
 * All the links on every page were tested on all browsers to ensure they are working properly.
 * My family members were recruited to play on the site and inform me of any changes they felt needed to be made, look for mistakes and check all links worked as they should.
