@@ -160,7 +160,11 @@ img.pack-img {
        height: 300px;
     }
 }
-
+@media screen and (min-width: 1400px) {
+  #cover-text {
+    margin-bottom: 100px;
+  }
+}
 /*FOOTER*/
 
 footer {
