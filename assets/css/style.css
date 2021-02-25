@@ -101,10 +101,10 @@ h3 {
   font-family: 'Poppins', sans-serif;
   font-size: 100%;
   text-transform: uppercase;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   width: 600px;
-  height: 225px;
-  padding-top: 40px;
+  height: 200px;
+  padding-top: 10px;
   padding-left: 10px;
   background-color: rgba(153, 102, 204, .7);
   bottom: 10px;
