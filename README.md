@@ -256,7 +256,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
-* All content was written by the developer.
+* All content was written by the developer. Content was taken from my other sites which I also wrote. These are www.paulprenderville.ie and www.limerickdj.com
 
 ### Media
 
