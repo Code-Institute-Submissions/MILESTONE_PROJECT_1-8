@@ -161,6 +161,12 @@ img.pack-img {
        height: 300px;
     }
 }
+
+@media only screen and (max-width: 1024px) {
+  #cover-text {
+      margin-bottom: 500px;
+  }
+}
 /*FOOTER*/
 
 footer {
