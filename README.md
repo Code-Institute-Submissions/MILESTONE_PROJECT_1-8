@@ -230,7 +230,7 @@ The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the GitHub Repository.
 2. At the top of the repository, locate the "settings" button on the menu.
 3. Scroll down the settings page until you locate the "GitHub Pages" section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown called "None" and select "Master Branch" and click save.
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
