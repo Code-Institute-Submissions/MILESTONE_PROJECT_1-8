@@ -90,6 +90,7 @@ h3 {
     -ms-background-position-x: center;
   -ms-background-position-y: bottom;
   background-position: center bottom;
+  overflow: hidden;
 }
 
 /* Styling the cover-text to appear over the hero image */
@@ -107,10 +108,10 @@ h3 {
   padding-top: 10px;
   padding-left: 10px;
   background-color: rgba(153, 102, 204, .7);
-  bottom: 10px;
+  bottom: 30px;
   left: 10px;
   position: absolute;
-  margin-bottom: 300px;
+  right: 120px;
 }
 
 .fa-star {
