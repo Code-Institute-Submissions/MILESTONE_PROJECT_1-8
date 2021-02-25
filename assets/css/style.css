@@ -91,6 +91,7 @@ h3 {
   -ms-background-position-y: bottom;
   background-position: center bottom;
   overflow: hidden;
+  position: relative;
 }
 
 /* Styling the cover-text to appear over the hero image */
@@ -108,7 +109,7 @@ h3 {
   padding-top: 10px;
   padding-left: 10px;
   background-color: rgba(153, 102, 204, .8);
-  bottom: 5%;
+  bottom: 0%;
   left: 10px;
   position: absolute;
 }
