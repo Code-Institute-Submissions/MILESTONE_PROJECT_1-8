@@ -1,8 +1,9 @@
 <p align="center"><img src="/assets/images/LOGOLKDJ.png" width="600"></p>
+<p align="center"><img src="/assets/readmeimages/webonalldevices.PNG" width="800"></p>
 
 
 # *Limerick DJ*
-View the live project [HERE.](https:///index.html)
+View the live project [HERE.](https://djpaulp.github.io/MILESTONE_PROJECT_1/)
 
 ***
 
