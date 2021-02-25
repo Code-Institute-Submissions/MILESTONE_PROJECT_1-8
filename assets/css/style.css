@@ -85,7 +85,7 @@ h3 {
 #hero-image {
   height: 550px;
   width: 100%;
-  background: url=("../assets/images/Hero_image2.jpg") no-repeat center center;
+  background: url=("../images/Hero_image2.jpg") no-repeat center center;
   background-size: cover;
     -ms-background-position-x: center;
   -ms-background-position-y: bottom;
