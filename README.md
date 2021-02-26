@@ -1,5 +1,5 @@
 ![logo](/assets/images/logolkdj.png "Limerick DJ Logo")
-![website on all devices](/assets/readmeimages/webonalldevices.PNG "Picture of website on all devices")
+![website on all devices](/assets/readmeimages/responsive_devices.PNG "Picture of website on all devices")
 
 
 
@@ -162,17 +162,17 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
    * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-   * Css Validation can be seen here: <br>
+   * Css Validation can be seen here: 
     ![css validation](/assets/readmeimages/css_capture.PNG "css validation")
 
     * The first time I ran the validator I had forgotten the alt text for the logo image. This was very quickly rectified. 
-    * Html Validation can be seen here for index page: <br>
+    * Html Validation can be seen here for index page: 
     ![index page validation](/assets/readmeimages/index_html_capture.PNG "index page validation")
 
-    * Html Validation can be seen here for gallery page: <br>
+    * Html Validation can be seen here for gallery page: 
     ![gallery page validation](/assets/readmeimages/gallery_html_capture.PNG "gallery page validation")
 
-    * Html Validation can be seen here for contact page: <br>
+    * Html Validation can be seen here for contact page: 
     ![contact page validation](/assets/readmeimages/contact_html_capture.PNG "contact page validation")
 
 ### Testing User Stories from UX Section
