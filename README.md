@@ -159,21 +159,21 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 ***
 
 ## **Testing**
+* The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project. Ensuring there were no syntax errors.
 
-   * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+* CSS Validation can be seen here:
+![css validation](/assets/readmeimages/css_capture.PNG "css validation image") 
 
-   * Css Validation can be seen here: 
-    ![css validation](/assets/readmeimages/css_capture.PNG "css validation")
-    
-    * The first time I ran the validator I had forgotten the alt text for the logo image. This was very quickly rectified. 
-    * Html Validation can be seen here for index page: 
-    ![index page validation](/assets/readmeimages/index_html_capture.PNG "index page validation")
+* The first time I ran the the html validator it returned and error in which I had forgotten the alt attribute for the logo image.
+    This was quickly rectified
+* HTML5 Validation for the index page can be see here:
+![index page validation](/assets/readmeimages/index_html_capture.PNG "index page validation image")
 
-    * Html Validation can be seen here for gallery page: 
-    ![gallery page validation](/assets/readmeimages/gallery_html_capture.PNG "gallery page validation")
+* HTML5 Validation for the gallery page can be seen here:
+![gallery page validation](/assets/readmeimages/gallery_html_capture.PNG "gallery page validation image")
 
-    * Html Validation can be seen here for contact page: 
-    ![contact page validation](/assets/readmeimages/contact_html_capture.PNG "contact page validation")
+* HTML5 Validation for the contact page can be seen here:
+![contact page validation](/assets/readmeimages/contact_html_capture.PNG "contact page validation image")
 
 ### Testing User Stories from UX Section
 **First Time Visitor Goals**
