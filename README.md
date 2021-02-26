@@ -272,20 +272,3 @@ The project was deployed to GitHub Pages using the following steps...
 * Tutor support at Code Institute for all their help and friendliness, especially cormac_ci.
 
 * Slack for all the helpful hints and tips
-
-
-* The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project. Ensuring there were no syntax errors.
-
-* CSS Validation can be seen here:
-![css validation](/assets/readmeimages/css_capture.PNG "css validation image") 
-
-* The first time I ran the the html validator it returned and error in which I had forgotten the alt attribute for the logo image.
-    This was quickly rectified
-* HTML5 Validation for the index page can be see here:
-![index page validation](/assets/readmeimages/index_html_capture.PNG "index page validation image")
-
-* HTML5 Validation for the gallery page can be seen here:
-![gallery page validation](/assets/readmeimages/gallery_html_capture.PNG "gallery page validation image")
-
-* HTML5 Validation for the contact page can be seen here:
-![contact page validation](/assets/readmeimages/contact_html_capture.PNG "contact page validation image")
