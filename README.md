@@ -171,6 +171,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
     * Html Validation can be seen here for index page: <br>
     <img src="/assets/readmeimages/w3chtmlindex.PNG" width="400">
+    ![Philadelphia's Magic Gardens. This place was so cool!](/assets/readmeimages/w3chtmlindex.PNG =400x "Philadelphia's Magic Gardens")
 
     * Html Validation can be seen here for gallery page: <br>
     <img src="/assets/readmeimages/w3chtmlgallery.PNG" width="400">

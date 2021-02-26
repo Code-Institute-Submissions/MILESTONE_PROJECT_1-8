@@ -85,7 +85,7 @@ h3 {
 #hero-image {
   height: 550px;
   width: 100%;
-  background: url("../images/Hero_image2.jpg") no-repeat center center;
+  background: url("../images/hero_image2.jpg") no-repeat center center;
   background-size: cover;
     -ms-background-position-x: center;
   -ms-background-position-y: bottom;
@@ -161,11 +161,7 @@ img.pack-img {
        height: 300px;
     }
 }
-@media screen and (min-width: 1400px) {
-  #cover-text {
-    margin-bottom: 100px;
-  }
-}
+
 /*FOOTER*/
 
 footer {
@@ -198,7 +194,7 @@ ul.social-network.social-circle {
     padding-inline-start: 0;
 }
 
-/* footer social icons */
+/* footer social icons from Font Awsome and animation from https://www.quackit.com/css/properties/webkit/css_-webkit-transform.cfm */
 
 .social-network a.icoFacebook:hover {
   background-color: #3B5998;
