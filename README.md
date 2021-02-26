@@ -283,3 +283,9 @@ The project was deployed to GitHub Pages using the following steps...
     This was quickly rectified
 * HTML5 Validation for the index page can be see here:
 ![index page validation](/assets/readmeimages/index_html_capture.PNG "index page validation image")
+
+* HTML5 Validation for the gallery page can be seen here:
+![gallery page validation](/assets/readmeimages/gallery_html_capture.PNG "gallery page validation image")
+
+* HTML5 Validation for the contact page can be seen here:
+![contact page validation](/assets/readmeimages/contact_html_capture.PNG "contact page validation image")
