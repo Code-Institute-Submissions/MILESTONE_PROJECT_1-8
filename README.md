@@ -81,7 +81,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 ##### *Homepage* 
 * All pages were designed for ease of use with a simple column and row design. Landing pages on mobile have moved the navigation menu under the logo image.
-![menu under logo](/assets/readmeimages/menu-moved.PNG "logo with menu underneath")
+![menu under logo](/assets/readmeimages/logomenu.PNG "logo with menu underneath")
 
 * All devices contain a call to action button, encouraging users to get in contact about special offers.
 
@@ -115,21 +115,21 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 * There is also a text-area for any further information or questions that they may have.
 
 ### Wireframes
-* All wireframes are here. Shown are Index Gallery and Contact pages on Desktop, Tablet and Mobile devices
-* Desktop View
-![homepage wireframe desktop](/assets/wireframes/index.png "wireframe of homepage on desktop")
-![gallery wireframe desktop](/assets/wireframes/gallery.png "wireframe of gallery on desktop")
-![contact wireframe desktop](/assets/wireframes/contact.png "wireframe of contact on desktop")
+* All wireframes are here. Shown are Index, Gallery and Contact pages on Desktop, Tablet and Mobile devices
+* Desktop View<br>
+![homepage wireframe desktop](/assets/wireframes/index2.png "wireframe of homepage on desktop")
+![gallery wireframe desktop](/assets/wireframes/gallery2.png "wireframe of gallery on desktop")
+![contact wireframe desktop](/assets/wireframes/contact2.png "wireframe of contact on desktop")
 
 * Tablet View <br>
-![homepage wireframe tablet](/assets/wireframes/tablet_index.png "wireframe of homepage on tablet")
-![gallery wireframe tablet](/assets/wireframes/tablet_gallery.png "wireframe of gallery on tablet")
-![contact wireframe tablet](/assets/wireframes/tablet_contact.png "wireframe of contact on tablet")
+![homepage wireframe tablet](/assets/wireframes/tablet_index2.png "wireframe of homepage on tablet")
+![gallery wireframe tablet](/assets/wireframes/tablet_gallery2.png "wireframe of gallery on tablet")
+![contact wireframe tablet](/assets/wireframes/tablet_contact2.png "wireframe of contact on tablet")
 
 * Mobile View<br>
-![homepage wireframe mobile](/assets/wireframes/mobile_index.png "wireframe of homepage on mobile")
-![gallery wireframe mobile](/assets/wireframes/mobile_gallery.png "wireframe of gallery on mobile")
-![contact wireframe mobile](/assets/wireframes/mobile_contact.png "wireframe of contact on mobile")
+![homepage wireframe mobile](/assets/wireframes/mobile_index2.png "wireframe of homepage on mobile")
+![gallery wireframe mobile](/assets/wireframes/mobile_gallery2.png "wireframe of gallery on mobile")
+![contact wireframe mobile](/assets/wireframes/mobile_contact2.png "wireframe of contact on mobile")
 ***
 
 ## **Features**
@@ -180,8 +180,8 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 1. As a first time user, I would like to easily understand what this dj offers.
    * Upon entering, users are greeted with an eye-grabbing hero image of a couple kissing on a dancefloor, whith smiling guests around them.
 
-   * On desktop devices there is also a container over the image with a tagline.
-   ![tagline](/assets/readmeimages/tagline.PNG "tagline over main image")
+   * On desktop devices there is also a container over the hero image with a tagline.
+   ![tagline](/assets/readmeimages/taglineimage.PNG "tagline over main image")
    
 2. As a first time user, I would like to easily navigate through the site's content.
 
@@ -193,7 +193,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
    * Under the hero image is a strategically placed call to action button, encouraging couples to get in touch about discounts for midweek weddings. 
 
    * As Users scroll down the page, they see a welcome message and a little info about Limerick DJ.
-   ![welcome message](/assets/readmeimages/welcome.PNG "welcome message on homepage")
+   ![welcome message](/assets/readmeimages/welcomemessage.PNG "welcome message on homepage")
 
    * There is also a link here to take them directly to the Gallery & Reviews page. 
 
