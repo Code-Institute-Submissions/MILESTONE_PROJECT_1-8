@@ -1,5 +1,6 @@
-<p align="center"><img src="/assets/images/LOGOLKDJ.png" width="600"></p>
-<p align="center"><img src="/assets/readmeimages/webonalldevices.PNG" width="800"></p>
+![logo](/assets/images/logolkdj.png "Limerick DJ Logo")
+![website on all devices](/assets/readmeimages/webonalldevices.PNG "Picture of website on all devices")
+
 
 
 # *Limerick DJ*
@@ -55,10 +56,10 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 * Inform couples about packages available to them.
 * Encourage couples to make contact for a sale.
 * Make the site appealing to wedding couples.
-* Include examples of weddings in a Gallery
-* Show coulples reviews from past weddings
-* Highlight special discounts for midweek weddings
-* include links to social media pages
+* Include examples of weddings in a Gallery.
+* Show coulples reviews from past weddings.
+* Highlight special discounts for midweek weddings.
+* include links to social media pages.
 
 ### Design
 ##### *Color Scheme*
@@ -74,26 +75,25 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 ##### *Imagery*
 * Each page contains a large background image of a couple kissing on a dancefloor. Hopefully exciting couples of what their wedding could look like. 
-* There are also 3 images on the homepage making the packages available look more appealing
-* There is promotional video on the Gallery & Reviews page
-* The Gallery contains 9 images from past weddings
+* There are also 3 images on the homepage making the packages available look more appealing.
+* There is promotional video on the Gallery & Reviews page.
+* The Gallery contains 9 images from past weddings.
 
 ##### *Homepage* 
 * All pages were designed for ease of use with a simple column and row design. Landing pages on mobile have moved the navigation menu under the logo image.
-
-<p align="center"><img src="/assets/readmeimages/Menu-moved.PNG" width="400"></p>
+![menu under logo](/assets/readmeimages/menu-moved.PNG "logo with menu underneath")
 
 * All devices contain a call to action button, encouraging users to get in contact about special offers.
 
-<p align="center"><img src="/assets/readmeimages/actionbutton.PNG" width="400"></p>
+![call to action button](/assets/readmeimages/actionbutton.PNG "call to action button")
 
 * As you scroll down the homepage you will come across the packages that are available to couples for their wedding.
 
-<p align="center"><img src="/assets/readmeimages/packages.PNG" width="400"></p>
+![packages available](/assets/readmeimages/packages.PNG "packages available on homepage")
 
 * In the footer I have placed our logo linking back to our homepage, a contact number and email along with social icons that link to the platforms.
 
-<p align="center"><img src="/assets/readmeimages/footer.PNG" width="800" height="75"></p>
+![footer](/assets/readmeimages/footer.PNG "image of the footer")
 
 
 ##### *Gallery & Reviews Page*
@@ -108,7 +108,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 ##### *Contact Page*
 * A form has been created here for couples to make inquiries.
-<p align="center"><img src="/assets/readmeimages/form.PNG" width="400"></p>
+![form on contact page](/assets/readmeimages/form.PNG "form on contact page")
 
 * The form gathers basic information such as name and email but most importantly the date of the couples wedding.
 
@@ -117,23 +117,19 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 ### Wireframes
 * All wireframes are here. Shown are Index Gallery and Contact pages on Desktop, Tablet and Mobile devices
 * Desktop View
-<p float="left">
-<img src="/assets/wireframes/Index.png" width="350">
-<img src="/assets/wireframes/Gallery.png" width="350">
-<img src="/assets/wireframes/Contact.png" width="350">
-</p>
-* Tablet View
-<p float="left">
-<img src="/assets/wireframes/Tablet index.png" width="350">
-<img src="/assets/wireframes/Tablet Gallery.png" width="350">
-<img src="/assets/wireframes/Tablet Contact.png" width="350">
-</p>
-* Mobile View
-<p float="left">
-<img src="/assets/wireframes/Mobile Index.png" width="350">
-<img src="/assets/wireframes/Mobile Gallery.png" width="350">
-<img src="/assets/wireframes/Mobile Contact.png" width="350">
-</p>
+![homepage wireframe desktop](/assets/wireframes/index.png "wireframe of homepage on desktop")
+![gallery wireframe desktop](/assets/wireframes/gallery.png "wireframe of gallery on desktop")
+![contact wireframe desktop](/assets/wireframes/contact.png "wireframe of contact on desktop")
+
+* Tablet View <br>
+![homepage wireframe tablet](/assets/wireframes/tablet_index.png "wireframe of homepage on tablet")
+![gallery wireframe tablet](/assets/wireframes/tablet_gallery.png "wireframe of gallery on tablet")
+![contact wireframe tablet](/assets/wireframes/tablet_contact.png "wireframe of contact on tablet")
+
+* Mobile View<br>
+![homepage wireframe mobile](/assets/wireframes/mobile_index.png "wireframe of homepage on mobile")
+![gallery wireframe mobile](/assets/wireframes/mobile_gallery.png "wireframe of gallery on mobile")
+![contact wireframe mobile](/assets/wireframes/mobile_contact.png "wireframe of contact on mobile")
 ***
 
 ## **Features**
@@ -167,17 +163,17 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
    * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
    * Css Validation can be seen here: <br>
-    <img src="/assets/readmeimages/w3ccssvalidation.PNG" width="800">
+    ![css validation](/assets/readmeimages/w3ccssvalidation.PNG "css validation")
 
+    * The first time I ran the validator I had forgotten the alt text for the logo image. This was very quickly rectified. 
     * Html Validation can be seen here for index page: <br>
-    <img src="/assets/readmeimages/w3chtmlindex.PNG" width="400">
-    ![Philadelphia's Magic Gardens. This place was so cool!](/assets/readmeimages/w3chtmlindex.PNG =400x "Philadelphia's Magic Gardens")
+    ![index page validation](/assets/readmeimages/w3chtmlindex.PNG "index page validation")
 
     * Html Validation can be seen here for gallery page: <br>
-    <img src="/assets/readmeimages/w3chtmlgallery.PNG" width="400">
+    ![gallery page validation](/assets/readmeimages/w3chtmlgallery.PNG "gallery page validation")
 
     * Html Validation can be seen here for contact page: <br>
-    <img src="/assets/readmeimages/w3chtmlcontact.PNG" width="400">
+    ![contact page validation](/assets/readmeimages/w3chtmlcontact.PNG "contact page validation")
 
 ### Testing User Stories from UX Section
 **First Time Visitor Goals**
@@ -185,26 +181,26 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
    * Upon entering, users are greeted with an eye-grabbing hero image of a couple kissing on a dancefloor, whith smiling guests around them.
 
    * On desktop devices there is also a container over the image with a tagline.
-   <p align="center"><img src="/assets/readmeimages/tagline.PNG" width="400"></p> 
-  
+   ![tagline](/assets/readmeimages/tagline.PNG "tagline over main image")
+   
 2. As a first time user, I would like to easily navigate through the site's content.
 
-   * When arriving at the site, the user has several options. In the top right corner the menu which navigates through the site.
-     The colour of the text is white and the background purple indicating which page they are on. 
-   <p align="center"><img src="/assets/readmeimages/menulist.PNG" width="400"></p>
-    <p align="center"><img src="/assets/readmeimages/menupage.PNG" width="400"></p>
+   * When arriving at the site, the user has several options. In the top right corner of the page is the menu which navigates through the site.
+     The colour of the text is white and the background purple indicating which page they are on.<br>
+     ![homepage highlighted](/assets/readmeimages/menulist.PNG "landing page button styled to show which page you are on")<br>
+     ![gallery highlighted](/assets/readmeimages/menupage.PNG "landing page gallery button styled to show which page you are on") 
    
    * Under the hero image is a strategically placed call to action button, encouraging couples to get in touch about discounts for midweek weddings. 
 
    * As Users scroll down the page, they see a welcome message and a little info about Limerick DJ.
-   <p align="center"><img src="/assets/readmeimages/welcome.PNG" width="800"></p>
+   ![welcome message](/assets/readmeimages/welcome.PNG "welcome message on homepage")
 
    * There is also a link here to take them directly to the Gallery & Reviews page. 
 
 3. As a first time user, I would like to check out the djs social pages.
 
    * On the fotter there are links to each of my business social pages which users can check out. These contain more videos and more up to date information
-   <p align="center"><img src="/assets/readmeimages/social.PNG" width="400"></p>
+   ![footer social](/assets/readmeimages/social.PNG "social icons on footer")
 
 
 **Returning Visitors**
@@ -250,7 +246,9 @@ The project was deployed to GitHub Pages using the following steps...
 
 * [YouTube.com:](https://youtube.com/) Youtube was another great resource for code tips and especially with css design.
 
-* [Quackit.com:](https://www.quackit.com/css/properties/webkit/css_-webkit-transform.cfm) Used to animate the social media icons to rotate them when hovered.
+* [Quackit.com:](https://www.quackit.com/css/properties/webkit/css_-webkit-transform.cfm) Used to test and understand how to rotate the social icons when hovered.
+
+* [Boostrap](https://embed.plnkr.co/plunk/LpJLnT) Used also for animating the footer social icons
 
 * Can Sucullu (Mentor): My mentor Can Sucullu helped with advising on what was needed for this website
 

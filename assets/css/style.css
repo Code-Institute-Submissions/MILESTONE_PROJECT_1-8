@@ -194,7 +194,7 @@ ul.social-network.social-circle {
     padding-inline-start: 0;
 }
 
-/* footer social icons from Font Awsome and animation from https://www.quackit.com/css/properties/webkit/css_-webkit-transform.cfm */
+/* footer social icons from Bootstrap */
 
 .social-network a.icoFacebook:hover {
   background-color: #3B5998;
@@ -247,6 +247,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
     line-height: 30px;
 }
 
+/* Bootstrap used to animate the social logos https://embed.plnkr.co/plunk/LpJLnT */
 .social-circle li a:hover i,
 .triggeredHover {
     transform: rotate(360deg);
