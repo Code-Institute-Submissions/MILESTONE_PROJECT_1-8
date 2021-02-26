@@ -199,7 +199,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 
 3. As a first time user, I would like to check out the djs social pages.
 
-   * On the fotter there are links to each of my business social pages which users can check out. These contain more videos and more up to date information
+   * On the fotter there are links to each of my business social pages which users can check out. These contain more videos and more up to date information<br>
    ![footer social](/assets/readmeimages/social.PNG "social icons on footer")
 
 
@@ -217,6 +217,7 @@ Limerick DJ is a website that offers DJ services to couples getting married. It 
 * The website was tested on Google Chrome with dev tools and also Firefox browsers.
 * I also used the Unicorn Revealer extension to check errors with columns.
 * The website was viewed on a variety of devices such as Desktop, Laptop, iPad & Samsung mobile devices.
+* There was an issue with the cover text on the hero image being in the wrong place, it was relative to the page. I changed this to be relative to the hero image and it works perfectly. 
 * All the links on every page were tested on all browsers to ensure they are working properly.
 * My family members were recruited to play on the site and inform me of any changes they felt needed to be made, look for mistakes and check all links worked as they should.
 
